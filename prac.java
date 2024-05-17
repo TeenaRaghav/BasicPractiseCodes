@@ -1,4 +1,4 @@
-package com.training.interviewcodes;
+package com.training.BasicPractisecodes;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

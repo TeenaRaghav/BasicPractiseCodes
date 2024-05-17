@@ -1,4 +1,4 @@
-package com.training.interviewcodes;
+package com.training.BasicPractisecodes;
 
 import java.time.LocalDate;
 import java.time.LocalTime;

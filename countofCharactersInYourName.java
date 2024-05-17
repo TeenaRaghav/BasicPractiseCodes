@@ -1,4 +1,4 @@
-package com.training.interviewcodes;
+package com.training.BasicPractisecodes;
 
 public class countofCharactersInYourName {
 public static void main(String[] args) {
